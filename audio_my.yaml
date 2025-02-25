@@ -1,0 +1,13 @@
+identity:
+  author: zjanew
+  name: audio_my
+  label:
+    en_US: TTS
+    zh_Hans: 文字转语音
+  description:
+    en_US: A tool based on aliyun that can be used for tts.
+    zh_Hans: 一个基于阿里云语音合成的文本转语音工具。
+  icon: icon.svg
+  tags:
+    - utilities
+credentials_for_provider:
